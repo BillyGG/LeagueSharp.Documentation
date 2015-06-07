@@ -54,6 +54,8 @@ It is now time to add your references.
 
 First, head to the 'Browse' section on the left, followed by the 'Browse...' button in the bottom right.
 
+Find your LeagueSharp install directory, followed by 'System'. e.g. "C:\LeagueSharp\System"
+
 You then want to select the three main .dll files using CTRL/CMD + Click
 
 > LeagueSharp.Common.dll
